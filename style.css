@@ -2,7 +2,77 @@
   margin: 15px 10px;
 }
 
+
+.directory {
+  color: #FBA200;
+  text-align: center;
+  border: 2px solid black;
+  background-color: rgb(22, 22, 119);
+  border-style: groove;
+  height: 45px;
+  font-family: "Times New Roman";
+  margin-right: 170px;
+}
+
 .tableWrapper {
   max-height: 400px;
   overflow: auto;
+  color:  #FBA200;
+  width: 550px;
+  
+  
 }
+
+.row {
+    position: relative;
+    padding:5px;
+    
+}
+
+.jumbotron {
+  background-color: rgb(22, 22, 119);
+  color: #FBA200;
+  float: left;
+  background-repeat:no-repeat;
+  background-position:fixed;
+  height: 760px;
+  width: 380px;
+}
+
+form {
+  
+  color: #FBA200;;
+  background-color: rgb(22, 22, 119);
+  background-clip: content-box;
+  padding: 20px;
+  float: right;
+  background-repeat:no-repeat;
+  background-position:fixed;
+  width: 560px;
+  text-align: center;
+  
+}
+
+.td {
+  padding: 40px;
+  
+}
+
+.bon {
+  right: 40px;
+}
+
+.textCoord {
+  font-size: 15px;
+}
+
+.col-md-6 {
+  
+}
+
+.span {
+
+}
+  
+  
+  
